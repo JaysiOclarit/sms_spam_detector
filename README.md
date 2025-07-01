@@ -16,4 +16,4 @@ This app classifies SMS messages as **spam** or **ham** using a Naive Bayes clas
 ```bash
 pip install -r requirements.txt
 ```
-![App Screenshot](assets/sms_spam_detector_ui.jpg)
+![App Screenshot](assets/image_2025-07-01_220806957.png)
